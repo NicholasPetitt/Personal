@@ -1,2 +1,2 @@
 # Personal
-Projeects and Self Study
+Projects and Self Study
